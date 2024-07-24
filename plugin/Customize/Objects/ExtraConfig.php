@@ -25,7 +25,7 @@ class ExtraConfig extends PluginAbstract
 
     public function getName()
     {
-        return "Customize";
+        return "JEFNIU_Customize";
     }
 
     public function getUUID()
