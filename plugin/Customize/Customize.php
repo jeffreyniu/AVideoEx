@@ -3,7 +3,7 @@
 global $global;
 require_once $global['systemRootPath'] . 'plugin/Plugin.abstract.php';
 
-class ExtraConfig extends PluginAbstract
+class Customize extends PluginAbstract
 {
     public function getTags()
     {
